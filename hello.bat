@@ -1,5 +1,5 @@
 @ECHO OFF
-set CLASSPATH=E:\java
+set CLASSPATH=E:\MyProject
 javac Hello.java
 java Hello
 pause
